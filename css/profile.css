@@ -1,0 +1,6 @@
+ul #profile{
+    border: 1px solid #dee2e6;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    border-bottom: none;
+}

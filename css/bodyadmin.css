@@ -1,0 +1,21 @@
+#listmember tr td{
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 5px;
+    color: #000;
+    font-size: larger;
+}
+#listmember{
+    margin: 0 auto;
+}
+#firstcol td{
+    background: dodgerblue;
+    color: #fff !important;
+}
+.edit{
+    margin: 5px auto;
+    text-align: center;
+}
+.nav-tabs li a i{
+    padding-right: 10px;
+}
